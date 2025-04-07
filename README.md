@@ -1,4 +1,4 @@
-# P:mag: SBgInfo
+# :mag: PSBgInfo
 __PSBgInfo__ is raplacement for [Microsoft (Sysinternals) BGInfo](https://learn.microsoft.com/de-de/sysinternals/downloads/bginfo) written in powershell.
 
 I use it to avoid use a executable file that can be infected by a virus.
