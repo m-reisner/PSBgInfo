@@ -1,10 +1,9 @@
-![PSBgInfo by Martin](https://github.com/m-reisner/PSBgInfo/blob/main/foo.png) 
-
-# PSBgInfo
+# P:mag: SBgInfo
 __PSBgInfo__ is raplacement for [Microsoft (Sysinternals) BGInfo](https://learn.microsoft.com/de-de/sysinternals/downloads/bginfo) written in powershell.
 
 I use it to avoid use a executable file that can be infected by a virus.
 
+:information_source:
 > PSBgInfo can show you the following computer informations:
 > 
 > - Hostname
@@ -28,3 +27,6 @@ I use it to avoid use a executable file that can be infected by a virus.
 > - Es wird gerpüft, ob mehr als 10% der Festplatte verfügbar sind. 
 
 Getting CDP Informations needs 1 Minute zu get the Information. If you remove this part, the script will be awesome fast. :)
+
+:camera:
+![PSBgInfo by Martin](https://github.com/m-reisner/PSBgInfo/blob/main/foo.png) 
